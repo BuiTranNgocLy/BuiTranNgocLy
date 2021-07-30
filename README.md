@@ -2,6 +2,4 @@
 
 https://www.facebook.com/buitranngocly
 
-
-<a href="https://www.facebook.com/buitranngocly![4-removebg-preview](https://user-images.githubusercontent.com/88178841/127632106-c4c6379a-7c46-4301-89a7-54ca66aab9de.png)
-" target="_blank"><img src="file:///C:/Users/buitr/Downloads/4-removebg-preview.png" /></a>
+<a href="https://www.facebook.com/buitranngocly" target="_blank"><img src="file:///C:/Users/buitr/Downloads/4-removebg-preview.png" /></a>
