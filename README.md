@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/88178841/127621233-55c539e3-912c-41db-8286-dfbe4ef7121b.png" width="1400" height="500">
+<img src="file:///C:/Users/buitr/Downloads/Welcome%20to%20my%20Github..gif" width="1400" height="500">
 
 
 ## Follow me: 
