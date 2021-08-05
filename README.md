@@ -17,6 +17,8 @@
 <br><br><br><br><br><br><br>
 <a href="https://github.com/BuiTranNgocLy/Database_System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=Database_System"></a>
 <a href="https://github.com/BuiTranNgocLy/github-readme-stats"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=github-readme-stats"></a>
+<br><br><br><br><br><br><br>
+<a href="https://github.com/BuiTranNgocLy/Lear_Java"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=Lear_Java"></a>
 
 <br><br><br><br><br><br>
 <hr>
