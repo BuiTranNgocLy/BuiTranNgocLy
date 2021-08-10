@@ -20,10 +20,11 @@
 <br><br><br><br><br><br><br>
 <a href="https://github.com/BuiTranNgocLy/Learn_Java"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=Learn_Java"></a>
 <a href="https://github.com/BuiTranNgocLy/Learn_HTML"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=Learn_HTML"></a>
-
+<br><br><br><br><br><br><br>
+<a href="https://github.com/BuiTranNgocLy/CT175_LTDT_code_C"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=CT175_LTDT_code_C"></a>
 <br><br><br><br><br><br>
 <hr>
-<h2 align="center">
+<h2 align="center"> 
  
 __Follow me__
 
