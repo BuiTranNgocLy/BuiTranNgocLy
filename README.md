@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/88178841/127730688-9a4ad9f6-4a20-4fec-8263-414463c509b1.png" width="1400" height="400">
+<img src="https://user-images.githubusercontent.com/88178841/135701700-d628878d-bcb3-461a-b7c5-9c84bf9f9edc.png" width="1360" height="400">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=BuiTranNgocLy&theme=dracula" width="100%"/>
 <br>
@@ -29,5 +29,10 @@
  
 __Follow me__
 
-[<img src="https://dw-iconusers.flaticon.com/48920/48920848/1627657751649.svg?token=exp=1627658740~hmac=e995834beecef5043a411d4d6166483f" width="40" height="40">](https://www.facebook.com/buitranngocly) [<img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="40" height="40">](https://www.instagram.com/ngocly_001/) [<img src="https://dw-iconusers.flaticon.com/48920/48920848/1627657616656.svg?token=exp=1627658542~hmac=3153bba69dc43742187b991f91455338" width="40" height="40">](https://www.linkedin.com/in/ngọc-ly-bùi-trần-6642a31ba) 
+[<img src="https://user-images.githubusercontent.com/88178841/135701873-3c9f0659-2625-475d-90d1-586b3f0568f6.png" width="40" height="40">](https://www.facebook.com/buitranngocly)
+[<img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="40" height="40">](https://www.instagram.com/ngocly_001/)
+[<img src="https://dw-iconusers.flaticon.com/48920/48920848/1627657616656.svg?token=exp=1627658542~hmac=3153bba69dc43742187b991f91455338" width="40" height="40">](https://www.linkedin.com/in/ngọc-ly-bùi-trần-6642a31ba) 
+
+
+ 
 
