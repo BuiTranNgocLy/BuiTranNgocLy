@@ -13,7 +13,7 @@
 <a href="https://github.com/BuiTranNgocLy/CT175_LTDT_code_C"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=CT175_LTDT_code_C"></a>
 <br><br><br><br><br><br><br>
 <a href="https://github.com/BuiTranNgocLy/BuiTranNgocLy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=BuiTranNgocLy"></a>
-<a href="https://github.com/BuiTranNgocLy/Learn_Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=Learn_HTML"></a>
+<a href="https://github.com/BuiTranNgocLy/Learn_Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=Learn_Web"></a>
 <br><br><br><br><br><br><br>
 <a href="https://github.com/BuiTranNgocLy/CT173_KTMT_Assembly"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=CT173_KTMT_Assembly"></a>
 
