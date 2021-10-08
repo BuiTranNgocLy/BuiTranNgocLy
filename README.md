@@ -21,7 +21,7 @@
 <hr>
 <h2 align="center"> 
  
-__Follow me__
+__Contact me__
 
 [<img src="https://user-images.githubusercontent.com/88178841/135701873-3c9f0659-2625-475d-90d1-586b3f0568f6.png" width="40" height="40">](https://www.facebook.com/buitranngocly)
 [<img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="40" height="40">](https://www.instagram.com/ngocly_001/)
