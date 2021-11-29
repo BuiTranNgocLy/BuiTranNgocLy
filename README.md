@@ -1,6 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/88178841/135701700-d628878d-bcb3-461a-b7c5-9c84bf9f9edc.png" width="1360" height="400">
-
 <img src="https://activity-graph.herokuapp.com/graph?username=BuiTranNgocLy&theme=dracula" width="100%"/>
 <br>
 <a href="https://github.com/BuiTranNgocLy/BuiTranNgocLy"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api?username=BuiTranNgocLy&layout=compact&theme=bear"/></a>
