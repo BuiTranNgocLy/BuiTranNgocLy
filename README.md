@@ -7,7 +7,7 @@
 <hr>
 <h1 align="center"> Repositories </h1>
 <a href="https://github.com/BuiTranNgocLy/CTU_MMT-TT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=CTU_MMT-TT"></a>
-
+<a href="https://github.com/BuiTranNgocLy/CTU"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BuiTranNgocLy&theme=bear&border_color=61dafb&border_radius=10&repo=CTU"></a>
 
 
 
