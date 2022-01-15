@@ -1,3 +1,4 @@
+![Ami fat cat size to](https://user-images.githubusercontent.com/88178841/149616189-7ac72040-36a3-4f9b-ad61-69748ac065fa.gif)
 <img src="https://activity-graph.herokuapp.com/graph?username=BuiTranNgocLy&theme=dracula" width="100%"/>
 <br>
 <a href="https://github.com/BuiTranNgocLy/BuiTranNgocLy"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api?username=BuiTranNgocLy&layout=compact&theme=bear"/></a>
